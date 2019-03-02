@@ -1,7 +1,7 @@
 {
   "name": "discord-ribbon",
   "version": "7.0.5",
-  "description": "feature rich, modular Discord.JS-Commando server bot",
+  "description": "feature rich, modular Discord.JS-Commando server bot!",
   "author": "Favna <sharkie.jeroen@gmail.com> (https://favna.xyz/home)",
   "license": "GPL-3.0",
   "main": "src/app.js",
